@@ -1,0 +1,42 @@
+body{
+    background-color: #a1c6f7;
+}
+
+.card{
+    box-shadow: 3px 6px 8px 3px rgba(100, 100, 100, 0.3);
+    margin-bottom: 30px;
+}
+
+.alert {
+    padding: 5px;
+    margin: 5px;
+  
+}
+
+.nav{
+    padding: 10px 0 0 5px;
+    background-color: white;
+}
+
+.table-responsive {
+    max-height: 65vh;
+}
+
+.btn-list{
+    margin-bottom: 5px;
+    align-items: center;
+}
+
+.td-btn{
+    text-align: center;
+}
+
+.td-btn button{
+    width: 72px;
+}
+
+
+.texto{
+    font-size: 20px;
+    color: black;
+}
